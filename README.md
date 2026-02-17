@@ -59,3 +59,16 @@ I enjoy transforming complex problems into scalable, user-friendly software solu
 
 <a href="https://leetcode.com/vaishnavisingh79288/">
   <img s
+---
+    
+![vaishnavi GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi2726&theme=react-dark)
+
+
+
+
+
+
+
+
+
+  
