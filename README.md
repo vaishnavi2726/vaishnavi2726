@@ -53,7 +53,7 @@ I enjoy transforming complex problems into scalable, user-friendly software solu
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/vaishnavisingh/">
+<a href="https://www.linkedin.com/in/vaishnavi-singh-601661309/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=808080"/>
 </a>
 
